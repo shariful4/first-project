@@ -1,0 +1,23 @@
+body{
+	margin:0;
+	padding:0;
+}
+.content-area{
+	width:70%;
+	margin:auto;
+	text-align:center;
+	background:#34495e;
+	padding:40px;
+}
+.content-area h1{
+	color:#ffffff;
+	font-size:60px;
+	text-transform:capitalize;
+}
+.content-area p{
+	color:#ffffff;
+	font-size:20px;
+}
+.content-area img{
+	width:100%;
+}
